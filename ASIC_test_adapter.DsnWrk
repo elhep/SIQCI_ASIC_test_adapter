@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\CCNV1-EK1\CCNV1-EK1.PrjPcb
+[Project2]
+ProjectPath=ASIC_test_adapter.PrjPcb
+[Project3]
+ProjectPath=ASIC_test_CTRL_panel.PrjPcb
+[Project4]
+ProjectPath=Common_ASIC_tester\Common_ASIC_tester.PrjPcb
+[Project5]
+ProjectPath=..\..\..\GEM\WEST\LV_DC_Filter\LV_DC_Filter.PrjPcb

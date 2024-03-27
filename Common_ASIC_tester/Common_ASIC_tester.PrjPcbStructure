@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=DIGITAL.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=MAIN.SchDoc|SheetNumber=-
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=POWER.SchDoc|SheetNumber=3
